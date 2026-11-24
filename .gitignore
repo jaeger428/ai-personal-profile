@@ -1,0 +1,19 @@
+# 密钥、凭证与环境配置（禁止提交）
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.json
+secrets/
+tokens.json
+
+# 系统与缓存文件
+.DS_Store
+Thumbs.db
+node_modules/
+
+# 临时文件
+*.tmp
+tmp/
