@@ -2,7 +2,7 @@
 
 这是一份跨设备、跨 AI 工具通用的个人档案仓库：保存**已确认**的个人背景、偏好、项目进展与经验。换电脑或换 AI 工具后，读取同一组文件即可继续工作，不需要重新介绍自己。
 
-- 仓库地址：https://github.com/jaeger428/ai-personal-profile （私有 Private）
+- 仓库地址：https://github.com/jaeger428/ai-personal-profile （公开 Public，2026-11-24 由私有改为公开）
 - 本地目录：`C:\Users\Jaeger\Doubao\chats\2026-11-24\new-chat-1\ai-personal-profile`
 - 格式：UTF-8 编码 Markdown，目录清楚、内容精简、便于迁移
 - 建档日期：2026-11-24
@@ -42,9 +42,9 @@
 
 ## 换电脑 / 换 AI 工具
 
-1. 新设备安装 Git（可选）并登录 GitHub，克隆本私有仓库。
+1. 新设备安装 Git（可选）并登录 GitHub，克隆本仓库（当前公开，无需授权即可读取）。
 2. 在仓库目录下打开对应 AI 工具：Codex/Cursor 看 `AGENTS.md`，Claude Code 看 `CLAUDE.md`，Gemini CLI 看 `GEMINI.md`。
-3. 普通聊天窗口不能直接读取私有仓库时，使用正式档案生成的"便携摘要"粘贴（摘要见对话交付记录，由正式档案生成，不单独维护成第二份正文）。
+3. 普通聊天窗口不能直接读取仓库时，使用正式档案生成的"便携摘要"粘贴（摘要见对话交付记录，由正式档案生成，不单独维护成第二份正文）。
 
 ## 同步与版本说明
 
